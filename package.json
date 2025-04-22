@@ -1,5 +1,5 @@
 {
-  "name": "Personal Finance Tracker",
+  "name": "personal-finance-tracker",
   "private": true,
   "scripts": {
     "build": "turbo run build",
